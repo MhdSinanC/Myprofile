@@ -2,4 +2,4 @@
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
-Link :- http://myprofile-github.io/
+Link :- https://mhdsinanc.github.io/Myprofile/
